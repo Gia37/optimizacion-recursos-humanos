@@ -1,0 +1,53 @@
+/* Helpers */
+.text-white {
+    color: white;
+} 
+.title-color {
+    color: teal;
+}
+.text-center {
+    text-align: center;
+}
+.position-absolute {
+    position: absolute;
+}
+.position-relative {
+    position: relative;
+}
+.size-text {
+    font-size: 5rem;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+.padding-10 {
+    padding: 10px;
+}
+.padding-30 {
+    padding: 30px;
+}
+.pt-15{
+    padding-top: 15px;
+}
+.pt-30{
+    padding-top: 30px;
+}
+.pb-15{
+    padding-bottom: 15px;
+}
+.pl-30 {
+    padding-left: 30px;
+}
+.pr-30 {
+    padding-right: 30px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.mt-50{
+    margin-top: 50px;
+}
